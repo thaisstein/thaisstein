@@ -1,14 +1,18 @@
-<h1 align="center">Hi 🌈, I'm Thais Steinmüller Farias</h1>
+<h1 align="center">Hi 👋, I'm Thais Steinmuller Farias</h1>
 <h3 align="center">Computer engineering student @ Unicamp, Brazil currently on a double degree program @ l'Institut Polytechnique de Paris, France. Passionate about distributed systems, Machine Learning, IoT, Web Dev, and Network Science.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://i.imgur.com/uKDNFbs.png”>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaisstein&label=Profile%20views&color=d3725a&style=flat" alt="thaisstein" /> </p>
+
+
+<p align="left"> <img src="https://i.imgur.com/uKDNFbs.png"  /> </p>
 
 - 🌱 I’m currently learning **React, Vue.js**
 
-- 🤝 I’m looking for **An End of Studies Internship**
+- 🤝 I’m looking for **An end of studies internship**
+
+- 🌈 Feel free to contact me in **English, French, Spanish or Portuguese!**
 
 - 📫 How to reach me **tatastein88@gmail.com, thais.farias@telecom-sudparis.eu**
-
-- 🌈 Feel free to contact me in English, French, Spanish or Portuguese! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
