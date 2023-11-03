@@ -1,11 +1,11 @@
 /* External CSS file */
-@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Ubuntu+Mono&display=swap');
 
 h1, h5, h4 {
-    font-family: 'Anonymous Pro', Arial, sans-serif;
+    font-family: 'Ubuntu Mono', monospace;
     font-size: 11px;
 }
 
 h5 {
-    font-style: italic;
+  font-style: italic;
 }
