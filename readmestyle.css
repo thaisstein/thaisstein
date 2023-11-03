@@ -1,5 +1,10 @@
+/* External CSS file */
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+
 h1, h5, h4 {
-    font-family:  "Anonymous Pro", Arial, sans-serif;
+    font-family: 'Anonymous Pro', Arial, sans-serif;
+    font-size: 11px;
+}
 
 h5 {
     font-style: italic;
