@@ -8,7 +8,7 @@
 <h5 align="center"><i>She/Her/Elle</i></h5>
 <h4 align="center">Computer engineering student @ Unicamp, Brazil currently on a double degree program @ l'Institut Polytechnique de Paris, France. Passionate about distributed systems, Machine Learning, IoT, Web Dev, and Network Science.</h4>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/thaisstein/thaisstein/blob/main/iconworkThais.png">
+<img align="right" alt="Coding" width="500" src="https://github.com/thaisstein/thaisstein/blob/main/iconworkThais.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaisstein&label=Profile%20views&color=d3725a&style=flat" alt="thaisstein" /> </p>
 
