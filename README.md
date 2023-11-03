@@ -2,13 +2,7 @@
 <html>
 <head>
 <style>
-  h1, h5, h4 {
-    font-family: "Helvetica, Arial, sans-serif";
-  }
-
-  h5 {
-    font-style: italic;
-  }
+  <link rel="stylesheet" type="text/css" href="readmestyle.css">
 </style>
 </head>
 <body>
