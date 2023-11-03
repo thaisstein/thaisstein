@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaisstein&label=Profile%20views&color=d3725a&style=flat" alt="thaisstein" /> </p>
 
-
-
-<p align="left"> <img src="https://i.imgur.com/uKDNFbs.png"  /> </p>
-
 - 🌱 I’m currently learning **React, Vue.js**
 
 - 🤝 I’m looking for **an end of studies internship**
