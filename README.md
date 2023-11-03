@@ -18,7 +18,7 @@
 
 - 🌈 Feel free to contact me in **English, French, Spanish or Portuguese!**
 
-- 📫 How to reach me tatastein88@gmail.com, thais.farias@telecom-sudparis.eu
+- 📫 How to reach me tatastein88@gmail.com thais.farias@telecom-sudparis.eu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
