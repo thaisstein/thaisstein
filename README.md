@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  <link rel="stylesheet" type="text/css" href="readmestyle.css">
-</style>
+<link rel="stylesheet" type="text/css" href="readmestyle.css">
 </head>
 <body>
 <h1 align="center">Hey there, I'm Thais Steinmüller!</h1>
