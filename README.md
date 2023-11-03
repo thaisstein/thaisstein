@@ -4,21 +4,21 @@
 <link rel="stylesheet" type="text/css" href="readmestyle.css">
 </head>
 <body>
-<h1 align="center">Hey there, I'm Thais!</h1>
-<h5 align="center"><i>She/Her/Elle</i>i></h5>
+<h1 align="center">🐱 Hey there, I'm Thais! 🌈</h1>
+<h5 align="center"><i>She/Her/Elle</i></h5>
 <h4 align="center">Computer engineering student @ Unicamp, Brazil currently on a double degree program @ l'Institut Polytechnique de Paris, France. Passionate about distributed systems, Machine Learning, IoT, Web Dev, and Network Science.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/thaisstein/thaisstein/blob/main/iconworkThais.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaisstein&label=Profile%20views&color=d3725a&style=flat" alt="thaisstein" /> </p>
 
-- 🌱 I’m currently learning **React, Vue.js**
+- 📚 I’m currently learning **React, Vue.js**
 
-- 🤝 I’m looking for **an end of studies internship**
+- 👩🏻‍🎓 I’m looking for **an end of studies internship**
 
-- 🌈 Feel free to contact me in **English, French, Spanish or Portuguese!**
+- 🌎 Feel free to contact me in: **English, French, Spanish or Portuguese!**
 
-- 📫 How to reach me tatastein88@gmail.com thais.farias@telecom-sudparis.eu
+- 📫 How to reach me: tatastein88@gmail.com thais.farias@telecom-sudparis.eu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
