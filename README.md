@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1 align="center">Hey there, I'm Thais Steinmüller!</h1>
-<h5 align="center">She/Her/Elle</h5>
+<h5 align="center"><i>She/Her/Elle</i>i></h5>
 <h4 align="center">Computer engineering student @ Unicamp, Brazil currently on a double degree program @ l'Institut Polytechnique de Paris, France. Passionate about distributed systems, Machine Learning, IoT, Web Dev, and Network Science.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/thaisstein/thaisstein/blob/main/iconworkThais.png">
