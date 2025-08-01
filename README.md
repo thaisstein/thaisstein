@@ -15,8 +15,6 @@
 
 - 📚 I’m currently learning **React, Vue.js**
 
-- 👩🏻‍🎓 I’m looking for **an end of studies internship**
-
 - 🌎 Feel free to contact me in: **English, French, Spanish or Portuguese!**
 
 - 📫 How to reach me: tatastein88@gmail.com // steinmuller.thais@gmail.com
