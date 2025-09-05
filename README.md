@@ -13,11 +13,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaisstein&label=Profile%20views&color=d3725a&style=flat" alt="thaisstein" /> </p>
 
-- 📚 I’m currently learning **React, Vue.js**
+- 📚 I’m currently learning **React**
 
 - 🌎 Feel free to contact me in: **English, French, Spanish or Portuguese!**
 
-- 📫 How to reach me: tatastein88@gmail.com // steinmuller.thais@gmail.com
+- 📫 How to reach me: steinmuller.thais@gmail.com
 
 
 <h3 align="left">You will probably see here:</h3>
