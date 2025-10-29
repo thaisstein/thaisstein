@@ -11,8 +11,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/thaisstein/thaisstein/blob/main/iconworkThais.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaisstein&label=Profile%20views&color=d3725a&style=flat" alt="thaisstein" /> </p>
-
 - 📚 I’m currently learning **React**
 
 - 🌎 Feel free to contact me in: **English, French, Spanish or Portuguese!**
