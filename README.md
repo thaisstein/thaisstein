@@ -9,7 +9,7 @@
 <h4 align="center">Computer engineering student @ Unicamp, Brazil with a double degree in computer engineering @ l'Institut Polytechnique de Paris, France. 
   Passionate about distributed systems, Machine Learning, IoT, Web Dev, and Network Science.</h4>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/thaisstein/thaisstein/blob/main/IMG_1992.PNG">
+<img align="right" alt="Coding" width="500" src="https://github.com/thaisstein/thaisstein/blob/main/IMG_1992.PNG">
 
 - 📚 I’m currently learning **React**
 
