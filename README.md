@@ -6,12 +6,11 @@
 <body>
 <h1 align="center">🐱 Hey, I'm Thais! 🌈</h1>
 <h5 align="center"><i>She/Her/Elle</i></h5>
-<h4 align="center">Computer engineering student @ Unicamp, Brazil with a double degree in computer engineering @ l'Institut Polytechnique de Paris, France. 
-  Passionate about distributed systems, Machine Learning, IoT, Web Dev, and Network Science.</h4>
+<h4 align="center">Computer engineer (Unicamp, Brazil & IP Paris France)</h4>
 
 <img align="right" alt="Coding" width="500" src="https://github.com/thaisstein/thaisstein/blob/main/IMG_1992.PNG">
 
-- 📚 I’m currently learning **React**
+- 📚 I’m currently learning **Rust**
 
 - 🌎 Feel free to contact me in: **English, French, Spanish or Portuguese!**
 
