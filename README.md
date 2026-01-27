@@ -6,7 +6,7 @@
 <body>
 <h1 align="center">🐱 Hey, I'm Thais! 🌈</h1>
 <h5 align="center"><i>She/Her/Elle</i></h5>
-<h4 align="center">I'm a Computer engineer (Unicamp, Brazil & IP Paris France) and digital illustrator, also passionate about learning languages (that includes programming ones).</h4>
+<h4 align="center">I'm a computer engineer (Unicamp, Brazil & IP Paris France) and digital illustrator, also passionate about learning languages (that includes programming ones).</h4>
 
 <img align="right" alt="Coding" width="500" src="https://github.com/thaisstein/thaisstein/blob/main/IMG_1992.PNG">
 
